@@ -18,6 +18,5 @@ Prima line va contine orele care pot avea valori intre 1 si 12.
 A doua linie va reprezenta orele cu valori intre 0 si 60.
 
 ### Exemplu
-``7
-
-``25
+`7`
+`25`
