@@ -8,4 +8,4 @@
 
 ## Algoritmica
 
-. [Timpul in cuvinte](https://github.com/dotnetcourse/probleme/blob/master/Algoritmi/Timpul%20in%20cuvinte.md)
+1 [Timpul in cuvinte](/Algoritmi/Timpul%20in%20cuvinte.md)
