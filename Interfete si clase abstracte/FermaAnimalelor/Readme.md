@@ -1,4 +1,4 @@
-Intr-o ferma se afla 3 vaci, 2 oi si 5 gaini. Defineste clasele corespunzatoare folosind clasele si interfetele predefinite fara a le modifica in vreun fel si afiseaza raspunsurile la cele 4 intrebari de mai jos.
+Intr-o ferma se afla 3 vaci, 2 oi si 5 gaini. Pornind de la scheletul de proiect disponibil mai sus defineste clasele corespunzatoare folosind clasele abstracte si interfetele predefinite fara a le modifica in vreun fel si afiseaza raspunsurile la cele 4 intrebari de mai jos.
 
 1. Tipareste numarul de gaini calculandul programatic
 
