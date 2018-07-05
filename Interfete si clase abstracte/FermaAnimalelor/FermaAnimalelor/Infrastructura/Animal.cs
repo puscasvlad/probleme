@@ -12,8 +12,10 @@ namespace FermaAnimalelor
         public bool AnimalHranit { get; private set; }
 
         public bool AnimalAdormit { get; private set; }
-        protected abstract string Rasa { get; }
-        protected abstract IHrana HranaPreferata { get; }
+        public abstract string Rasa { get; }
+        public abstract IHrana HranaPreferata { get; }
+
+
         public void Mananca(IHrana hrana)
         {
             if(hrana.Denumire == HranaPreferata.Denumire)

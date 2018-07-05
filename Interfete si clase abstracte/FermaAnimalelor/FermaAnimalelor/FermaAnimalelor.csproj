@@ -42,9 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cereale.cs" />
+    <Compile Include="Hrana\Fan.cs" />
+    <Compile Include="Hrana\Lapte.cs" />
+    <Compile Include="Oua.cs" />
+    <Compile Include="Gaina.cs" />
     <Compile Include="Infrastructura\Animal.cs" />
     <Compile Include="Infrastructura\IHrana.cs" />
     <Compile Include="Infrastructura\IResursa.cs" />
+    <Compile Include="Oi.cs" />
+    <Compile Include="Vaca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -52,7 +59,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Hrana\" />
     <Folder Include="Resurse\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
