@@ -7,7 +7,7 @@ using FermaAnimalelor.Infrastructura;
 using FermaAnimalelor.Hrana;
 
 namespace FermaAnimalelor
-{
+{ 
     class Gaina : Animal
     {
         public Gaina ()
